@@ -1,0 +1,5 @@
+{
+  "name": "FloraCare AI",
+  "description": "Your personal plant companion: Identify species, diagnose diseases, and get expert care advice using AI.",
+  "requestFramePermissions": ["camera"]
+}
